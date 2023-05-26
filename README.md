@@ -1,6 +1,6 @@
-# Aplicación "Hello World" con React y Estado Cambiado
+# Aplicación "Hello World" con React y Propiedades Personalizadas
 
-Esta es una aplicación web simple creada con React que muestra el mensaje "Hello World" en pantalla. Además, incluye un estado que se actualiza cuando se hace clic en un botón.
+Esta es una aplicación web simple creada con React que muestra el mensaje "Hello World" en pantalla. Además, puedes personalizar el mensaje enviando un valor a través de las props.
 
 ## Cómo usar
 
